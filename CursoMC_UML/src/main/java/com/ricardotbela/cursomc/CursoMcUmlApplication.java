@@ -9,5 +9,4 @@ public class CursoMcUmlApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CursoMcUmlApplication.class, args);
 	}
-
 }
